@@ -17,6 +17,9 @@ SCADA Software for Sending to and Receiving Datas from ZigBees to Monitoring and
 * SCADA: Supervisory control and data acquisition (SCADA) is a system for remote monitoring and control that operates with coded signals over communication channels (using typically one communication channel per remote station).
 * MSCOMM: The MSComm control provides serial communications for your application by allowing the transmission and reception of data through a serial port.
 
+## Videos
+* 优酷播单:智慧教室监控平台软件：[http://list.youku.com/albumlist/show?id=27701699&ascending=1&page=1](http://list.youku.com/albumlist/show?id=27701699&ascending=1&page=1 "播单:智慧教室监控平台软件")
+
 ## Pictures
 ![智慧教室--温度曲线](http://i.imgur.com/sugKzG7.jpg)
 
