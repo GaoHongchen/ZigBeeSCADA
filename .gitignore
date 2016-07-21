@@ -27,7 +27,3 @@
 *.exe
 *.out
 *.app
-
-[Dd]ebug*/
-[Rr]elease*/
-*.pdb
