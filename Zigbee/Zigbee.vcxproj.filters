@@ -1,0 +1,203 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="源文件">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="头文件">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="资源文件">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="ReadMe.txt" />
+    <None Include="res\Zigbee.rc2">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="res\Zigbee.ico">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="res\icon5.ico">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="res\monitor68.ico">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="res\light64_1.ico">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="res\light64_2.ico">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="res\light64_3.ico">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="res\light64_4.ico">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="res\light64_5.ico">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="res\light64_6.ico">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="res\light48_1.ico">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="res\light48_2.ico">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="res\aircondition128.ico">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="res\alarm_32.ico">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="res\alert_32.ico">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="res\smartroom.bmp">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="res\ghc_320240.bmp">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="res\ghc_300180.bmp">
+      <Filter>资源文件</Filter>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Zigbee.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="ZigbeeDlg.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="stdafx.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="targetver.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Resource.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="CMSComm.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="PropAircon.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="PropAlarm.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="PropCam.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="PropCurtain.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="PropLight.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="CommPortDlg.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="OscilloscopeCtrl.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="TemperatureDlg.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="BtnST.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="UniButton.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="SplashWnd.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="HumidityDlg.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="IlluminationDlg.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="CarbonDioxideDlg.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="DataTypeConverter.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Zigbee.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="ZigbeeDlg.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="stdafx.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="CMSComm.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="PropAircon.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="PropAlarm.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="PropCam.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="PropCurtain.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="PropLight.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="CommPortDlg.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="OscilloscopeCtrl.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="TemperatureDlg.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="BtnST.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="UniButton.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="SplashWnd.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="HumidityDlg.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="IlluminationDlg.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="CarbonDioxideDlg.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="DataTypeConverter.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="Zigbee.rc">
+      <Filter>资源文件</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+</Project>
